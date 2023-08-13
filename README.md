@@ -1,5 +1,4 @@
-https://github.com/Muhammad-Ali-bhatti/Muhammad-Ali-Bhatti/blob/main/banner.png.png
-
+![logo](https://github.com/Muhammad-Ali-bhatti/Muhammad-Ali-Bhatti/blob/main/banner.png.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ali Bhatti</h1>
 <h3 align="center">A passionate Block Chain Developer From Pakistan</h3>
 
